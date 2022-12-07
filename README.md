@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a postgraduate from Northeast University, China. Now I am studying in video anomaly detection and working on unsupervised learning.
+I am a postgraduate from Northeastern University, China. Now I am studying in video anomaly detection and working on unsupervised learning.
 
 ## About me👨‍💻
 
