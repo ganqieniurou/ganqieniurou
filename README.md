@@ -3,7 +3,7 @@
 ## Languages and Tools 🛠
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![CUDA](http://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=ffffff)
 ![Anaconda](http://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=Anaconda&logoColor=ffffff)
